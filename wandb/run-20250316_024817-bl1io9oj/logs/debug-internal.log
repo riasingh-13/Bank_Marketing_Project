@@ -1,0 +1,20 @@
+{"time":"2025-03-16T02:48:17.6755472+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"C:\\Users\\PC\\Documents\\MLOps\\Bank_Marketing_Project\\wandb\\run-20250316_024817-bl1io9oj\\logs\\debug-core.log"}
+{"time":"2025-03-16T02:48:17.7998855+05:30","level":"INFO","msg":"created new stream","id":"bl1io9oj"}
+{"time":"2025-03-16T02:48:17.7998855+05:30","level":"INFO","msg":"stream: started","id":"bl1io9oj"}
+{"time":"2025-03-16T02:48:17.7998855+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bl1io9oj"}
+{"time":"2025-03-16T02:48:17.7998855+05:30","level":"INFO","msg":"sender: started","stream_id":"bl1io9oj"}
+{"time":"2025-03-16T02:48:17.8005236+05:30","level":"INFO","msg":"handler: started","stream_id":"bl1io9oj"}
+{"time":"2025-03-16T02:48:18.3927008+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T02:48:24.2705307+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T02:50:02.4921459+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T02:50:07.6077405+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T02:50:56.1694487+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T02:51:01.2965746+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T02:51:01.2987161+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T02:51:02.3068715+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact best_model","runtime_seconds":1.0180686},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3353764,"progress":"233B/233B"},{"desc":"uploading output.log","runtime_seconds":0.3353764,"progress":"2.3KB/2.3KB"}],"total_operations":3}}
+{"time":"2025-03-16T02:51:04.2895808+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T02:51:05.0280273+05:30","level":"INFO","msg":"stream: closing","id":"bl1io9oj"}
+{"time":"2025-03-16T02:51:05.0280273+05:30","level":"INFO","msg":"handler: closed","stream_id":"bl1io9oj"}
+{"time":"2025-03-16T02:51:05.0280273+05:30","level":"INFO","msg":"sender: closed","stream_id":"bl1io9oj"}
+{"time":"2025-03-16T02:51:05.0280273+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bl1io9oj"}
+{"time":"2025-03-16T02:51:05.0280273+05:30","level":"INFO","msg":"stream: closed","id":"bl1io9oj"}

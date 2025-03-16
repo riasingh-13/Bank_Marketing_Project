@@ -1,0 +1,12 @@
+2025-03-16 08:54:00,152 INFO    MainThread:16488 [wandb_init.py:setup_run_log_directory():647] Logging user logs to C:\Users\PC\Documents\MLOps\Bank_Marketing_Project\wandb\run-20250316_085400-4ec77lq6\logs\debug.log
+2025-03-16 08:54:00,152 INFO    MainThread:16488 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to C:\Users\PC\Documents\MLOps\Bank_Marketing_Project\wandb\run-20250316_085400-4ec77lq6\logs\debug-internal.log
+2025-03-16 08:54:00,152 INFO    MainThread:16488 [wandb_init.py:init():761] calling init triggers
+2025-03-16 08:54:00,153 INFO    MainThread:16488 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-16 08:54:00,153 INFO    MainThread:16488 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-16 08:54:05,617 INFO    MainThread:16488 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 08:54:05,617 INFO    MainThread:16488 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-16 08:55:57,402 INFO    MainThread:16488 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-16 08:55:57,423 INFO    MainThread:16488 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 08:55:57,423 INFO    MainThread:16488 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-16 08:56:48,605 INFO    MainThread:16488 [wandb_init.py:_resume_backend():569] resuming backend

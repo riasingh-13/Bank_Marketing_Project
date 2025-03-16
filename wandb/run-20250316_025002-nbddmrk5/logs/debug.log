@@ -1,0 +1,25 @@
+2025-03-16 02:50:02,527 INFO    MainThread:13780 [wandb_init.py:setup_run_log_directory():647] Logging user logs to C:\Users\PC\Documents\MLOps\Bank_Marketing_Project\wandb\run-20250316_025002-nbddmrk5\logs\debug.log
+2025-03-16 02:50:02,527 INFO    MainThread:13780 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to C:\Users\PC\Documents\MLOps\Bank_Marketing_Project\wandb\run-20250316_025002-nbddmrk5\logs\debug-internal.log
+2025-03-16 02:50:02,527 INFO    MainThread:13780 [wandb_init.py:init():761] calling init triggers
+2025-03-16 02:50:02,527 INFO    MainThread:13780 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-16 02:50:02,527 INFO    MainThread:13780 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-16 02:50:07,596 INFO    MainThread:13780 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 02:50:07,596 INFO    MainThread:13780 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-16 02:50:56,168 INFO    MainThread:13780 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-16 02:50:56,196 INFO    MainThread:13780 [wandb_init.py:setup_run_log_directory():647] Logging user logs to C:\Users\PC\Documents\MLOps\Bank_Marketing_Project\wandb\run-20250316_025056-vjtx8nfb\logs\debug.log
+2025-03-16 02:50:56,196 INFO    MainThread:13780 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to C:\Users\PC\Documents\MLOps\Bank_Marketing_Project\wandb\run-20250316_025056-vjtx8nfb\logs\debug-internal.log
+2025-03-16 02:50:56,196 INFO    MainThread:13780 [wandb_init.py:init():761] calling init triggers
+2025-03-16 02:50:56,196 INFO    MainThread:13780 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-16 02:50:56,196 INFO    MainThread:13780 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-16 02:51:01,293 INFO    MainThread:13780 [wandb_run.py:_finish():2112] finishing run riasingh1309-jio-institute/Bank_Marketing_MLOps/bl1io9oj
+2025-03-16 02:51:01,294 INFO    MainThread:13780 [jupyter.py:save_history():458] not saving jupyter history
+2025-03-16 02:51:01,294 INFO    MainThread:13780 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 02:51:01,294 INFO    MainThread:13780 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-16 02:51:01,294 INFO    MainThread:13780 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-16 02:51:01,294 INFO    MainThread:13780 [wandb_run.py:_restore():2322] restore
+2025-03-16 02:51:01,294 INFO    MainThread:13780 [wandb_run.py:_restore():2328] restore done
+2025-03-16 02:51:05,018 INFO    MainThread:13780 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-16 02:51:05,019 INFO    MainThread:13780 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-16 02:51:05,021 INFO    MainThread:13780 [wandb_run.py:_footer_sync_info():3917] logging synced files

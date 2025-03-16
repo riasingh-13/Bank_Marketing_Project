@@ -1,0 +1,16 @@
+{"time":"2025-03-16T02:40:48.3388157+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"C:\\Users\\PC\\Documents\\MLOps\\Bank_Marketing_Project\\wandb\\run-20250316_024048-xr3mx417\\logs\\debug-core.log"}
+{"time":"2025-03-16T02:40:48.4789801+05:30","level":"INFO","msg":"created new stream","id":"xr3mx417"}
+{"time":"2025-03-16T02:40:48.4789801+05:30","level":"INFO","msg":"stream: started","id":"xr3mx417"}
+{"time":"2025-03-16T02:40:48.4789801+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xr3mx417"}
+{"time":"2025-03-16T02:40:48.4789801+05:30","level":"INFO","msg":"sender: started","stream_id":"xr3mx417"}
+{"time":"2025-03-16T02:40:48.4789801+05:30","level":"INFO","msg":"handler: started","stream_id":"xr3mx417"}
+{"time":"2025-03-16T02:40:49.2982175+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T02:44:47.2798128+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T02:44:47.2830778+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T02:44:48.2996264+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3746093,"progress":"9.9KB/9.9KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3746093,"progress":"223B/223B"},{"desc":"uploading config.yaml","runtime_seconds":0.0493975,"progress":"587B/587B"}],"total_operations":3}}
+{"time":"2025-03-16T02:44:49.4147314+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T02:44:49.8037349+05:30","level":"INFO","msg":"stream: closing","id":"xr3mx417"}
+{"time":"2025-03-16T02:44:49.8037349+05:30","level":"INFO","msg":"handler: closed","stream_id":"xr3mx417"}
+{"time":"2025-03-16T02:44:49.8037349+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xr3mx417"}
+{"time":"2025-03-16T02:44:49.8037349+05:30","level":"INFO","msg":"sender: closed","stream_id":"xr3mx417"}
+{"time":"2025-03-16T02:44:49.8043425+05:30","level":"INFO","msg":"stream: closed","id":"xr3mx417"}

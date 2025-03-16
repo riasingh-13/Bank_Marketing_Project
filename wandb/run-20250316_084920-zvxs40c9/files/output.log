@@ -1,0 +1,110 @@
+wandb:   1 of 1 files downloaded.
+✅ Model loaded successfully from: C:\Users\PC\Documents\MLOps\Bank_Marketing_Project\artifacts\best_model-v0/best_model.pkl
+INFO:     Started server process [16488]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:59483 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59483 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59504 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59504 - "GET /openapi.json HTTP/1.1" 200 OK
+C:\Users\PC\AppData\Local\Temp\ipykernel_16488\4224516885.py:28: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.10/migration/
+  input_dict = data.dict()
+INFO:     127.0.0.1:59512 - "POST /predict HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [16488]
+wandb:   1 of 1 files downloaded.
+✅ Model loaded successfully from: C:\Users\PC\Documents\MLOps\Bank_Marketing_Project\artifacts\best_model-v0/best_model.pkl
+INFO:     Started server process [16488]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:59557 - "GET /docs HTTP/1.1" 200 OK
+Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\PC\venv\Lib\site-packages\uvicorn\server.py:68> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\PC\venv\Lib\site-packages\uvicorn\main.py", line 579, in run
+    server.run()
+  File "C:\Users\PC\venv\Lib\site-packages\uvicorn\server.py", line 66, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\venv\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\venv\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\PC\venv\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\PC\venv\Lib\site-packages\uvicorn\server.py", line 69, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\PC\venv\Lib\site-packages\uvicorn\server.py", line 330, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+INFO:     127.0.0.1:59557 - "GET /openapi.json HTTP/1.1" 200 OK
+C:\Users\PC\AppData\Local\Temp\ipykernel_16488\847777129.py:34: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.10/migration/
+  input_dict = data.dict()
+INFO:     127.0.0.1:59565 - "POST /predict HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [16488]
+INFO:     Started server process [16488]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:59677 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59677 - "GET /openapi.json HTTP/1.1" 200 OK
+C:\Users\PC\AppData\Local\Temp\ipykernel_16488\3484955658.py:34: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.10/migration/
+  input_dict = data.dict()
+INFO:     127.0.0.1:59682 - "POST /predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59702 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59702 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59704 - "POST /predict HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:59708 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59708 - "GET /openapi.json HTTP/1.1" 200 OK
+C:\Users\PC\AppData\Local\Temp\ipykernel_16488\3484955658.py:34: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.10/migration/
+  input_dict = data.dict()
+INFO:     127.0.0.1:59713 - "POST /predict HTTP/1.1" 200 OK
+C:\Users\PC\AppData\Local\Temp\ipykernel_16488\3484955658.py:34: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.10/migration/
+  input_dict = data.dict()
+INFO:     127.0.0.1:61305 - "POST /predict HTTP/1.1" 200 OK
+C:\Users\PC\AppData\Local\Temp\ipykernel_16488\3484955658.py:34: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.10/migration/
+  input_dict = data.dict()
+INFO:     127.0.0.1:61316 - "POST /predict HTTP/1.1" 200 OK
+C:\Users\PC\AppData\Local\Temp\ipykernel_16488\3484955658.py:34: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.10/migration/
+  input_dict = data.dict()
+INFO:     127.0.0.1:61325 - "POST /predict HTTP/1.1" 200 OK
+C:\Users\PC\AppData\Local\Temp\ipykernel_16488\3484955658.py:34: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.10/migration/
+  input_dict = data.dict()
+INFO:     127.0.0.1:61350 - "POST /predict HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [16488]
+INFO:     Started server process [16488]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+C:\Users\PC\AppData\Local\Temp\ipykernel_16488\3076177647.py:34: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.10/migration/
+  input_dict = data.dict()
+INFO:     127.0.0.1:61494 - "POST /predict HTTP/1.1" 200 OK
+C:\Users\PC\AppData\Local\Temp\ipykernel_16488\3076177647.py:34: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.10/migration/
+  input_dict = data.dict()
+INFO:     127.0.0.1:61517 - "POST /predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61525 - "GET /predict HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:61528 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61528 - "GET /openapi.json HTTP/1.1" 200 OK

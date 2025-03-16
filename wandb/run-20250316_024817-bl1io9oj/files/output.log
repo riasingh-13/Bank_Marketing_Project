@@ -1,0 +1,53 @@
+C:\Users\PC\venv\Lib\site-packages\sklearn\linear_model\_logistic.py:465: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+📊 Test Set Evaluation Metrics:
+✅ Accuracy: 0.9094
+✅ Precision: 0.6558
+✅ Recall: 0.4127
+✅ F1 Score: 0.5066
+wandb: WARNING Saving files without folders. If you want to preserve subdirectories pass base_path to wandb.save, i.e. wandb.save("/mnt/folder/file.h5", base_path="/mnt")
+
+🏆 Best Model Selected: Logistic Regression
+   📌 Best Scaler: StandardScaler
+   📌 Best Hyperparameter: C = 0.1
+   ✅ Best Mean Accuracy (CV): 0.9113
+C:\Users\PC\venv\Lib\site-packages\sklearn\linear_model\_logistic.py:465: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+📊 Test Set Evaluation Metrics:
+✅ Accuracy: 0.9094
+✅ Precision: 0.6558
+✅ Recall: 0.4127
+✅ F1 Score: 0.5066
+
+🏆 Best Model Selected: Logistic Regression
+   📌 Best Scaler: StandardScaler
+   📌 Best Hyperparameter: C = 0.1
+   ✅ Best Mean Accuracy (CV): 0.9113
+C:\Users\PC\venv\Lib\site-packages\sklearn\linear_model\_logistic.py:465: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+📊 Test Set Evaluation Metrics:
+✅ Accuracy: 0.9094
+✅ Precision: 0.6558
+✅ Recall: 0.4127
+✅ F1 Score: 0.5066
